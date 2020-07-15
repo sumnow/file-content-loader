@@ -1,0 +1,19 @@
+{
+    "name": "file-content-loader",
+    "version": "0.0.4",
+    "description": "webpack",
+    "main": "lib/index.js",
+    "license": "MIT",
+    "author": "mydia@foxmail.com",
+    "bugs": {
+        "url": "https://github.com/sumnow/file-content-loader/issues"
+    },
+    "homepage": "https://github.com/sumnow/file-content-loader",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sumnow/file-content-loader.git"
+    },
+    "dependencies": {
+        "loader-utils": "^2.0.0"
+    }
+}
